@@ -1,7 +1,7 @@
 # Kickstarter-analysis
 Performing analysis on kickstarter data to uncover trends
 ## Introduction
->  Louise is looking to know how different campaigns fared in relation to their launch dates and their funding goals. Looking into the results of these factors can help with deciding when best to launch a kickstarter project and the chance of its success base on its goal amount. While using the kickstarter dataset, I was able to sort and filter two different graphs to visualize what Louise is looking for. The first is theater outcomes based on their launch dates and the second is outcomes based on their goals. A conclusion can be made from both visualizations as well as a conclusion about why Louise's play Fever came close to its fundraising goal.
+  Louise is looking to know how different campaigns fared in relation to their launch dates and their funding goals. Looking into the results of these factors can help with deciding when best to launch a kickstarter project and the chance of its success base on its goal amount. While using the kickstarter dataset, I was able to sort and filter two different graphs to visualize what Louise is looking for. The first is theater outcomes based on their launch dates and the second is outcomes based on their goals. A conclusion can be made from both visualizations as well as a conclusion about why Louise's play Fever came close to its fundraising goal.
   
 ## First visualization
  ![image](https://user-images.githubusercontent.com/56700719/147886828-4da473f8-9fe4-4698-97da-a0f8f1ecd651.png)
